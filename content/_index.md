@@ -1,5 +1,5 @@
 +++
-title = "Writing web services in Rust"
+title = "Writing web services in Rust "
 outputs = ["Reveal"]
 
 [reveal_hugo]
