@@ -1,6 +1,6 @@
 baseURL = "https://psoleckimoj.github.io/small-prs-presentation"
 languageCode = "en-us"
-title = "Writing small PRs"
+title = "Why small PRs?"
 theme = "reveal-hugo"
 
 [markup.goldmark.renderer]
